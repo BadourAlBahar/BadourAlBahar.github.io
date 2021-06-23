@@ -22,5 +22,4 @@ Education
 
 Research
 ======
-<figure style="width: 380px"> <img src="../images/guided_pix2pix_teaser.png" alt=""> </figure>
-**Guided Image-to-Image Translation with Bi-Directional Feature Transformation**<br/>**Badour AlBahar**, Jia-Bin Huang<br/>ICCV 2019<br/>[project](https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html) \| [paper](https://arxiv.org/abs/1910.11328) \| [code](https://github.com/vt-vl-lab/Guided-pix2pix) \| [poster](https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf)
+<figure style="width: 380px"> <img src="../images/guided_pix2pix_teaser.png" alt=""> </figure>**Guided Image-to-Image Translation with Bi-Directional Feature Transformation**<br/>**Badour AlBahar**, Jia-Bin Huang<br/>ICCV 2019<br/>[project](https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html) \| [paper](https://arxiv.org/abs/1910.11328) \| [code](https://github.com/vt-vl-lab/Guided-pix2pix) \| [poster](https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf)
