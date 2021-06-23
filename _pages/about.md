@@ -9,15 +9,18 @@ redirect_from:
 ---
 
 I am a Ph.D. student working with [Prof. Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/) in the [Vision and Learning Laboratory](https://filebox.ece.vt.edu/~jbhuang/people.html) at the department of Electrical and Computer Engineering at Virginia Tech. I am funded by [Kuwait University](http://www.kuniv.edu.kw) for both my masters and Ph.D. study.
+
 My research interests are in the area of computer vision and computer graphics. I am particularly interested in image synthesis. I am currently exploring approaches to realistic image editing and manipulation.
 
 You can find my CV [here](https://filebox.ece.vt.edu/~Badour/personal/cv-badour.pdf).
 
 Education
 ======
-August 2018 - Present: PhD Candidate in Computer Engineering at Virgina Tech
-August 2016 - May 2018: Master of Science in Computer Engineering from Virgina Tech
-September 2010 - July 2014: Bachelor of Science in Computer Engineering from Kuwait University
+PhD Candidate in Computer Engineering at Virgina Tech (August 2018 - Present)
+
+Master of Science in Computer Engineering from Virgina Tech (August 2016 - May 2018)
+
+Bachelor of Science in Computer Engineering from Kuwait University (September 2010 - July 2014)
 
 Publications
 ======
