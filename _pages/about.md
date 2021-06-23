@@ -31,13 +31,12 @@ Research
     <img src="../images/guided_pix2pix_teaser.png" width="300"/>
 </div>
 <div style="display:inline-block;">
-    Guided Image-to-Image Translation with Bi-Directional Feature Transformation
-		<br>
-    <b>Badour AlBahar</b>, Jia-Bin Huang
-		<br>
-    ICCV 2029
-		<br>
+    <b>Guided Image-to-Image Translation with Bi-Directional Feature Transformation</b><br>
+    <b>Badour AlBahar</b>, Jia-Bin Huang<br>
+    ICCV 2029<br>
     <a href="https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html">project</a> | <a href="https://arxiv.org/abs/1910.11328">paper</a> | <a href="https://github.com/vt-vl-lab/Guided-pix2pix">code</a> | <a href="https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf">poster</a>
 </div>
+
 <br>
 <br>
+
