@@ -17,11 +17,10 @@ You can find my CV [here](https://filebox.ece.vt.edu/~Badour/personal/cv-badour.
 Education
 ======
 PhD Candidate in Computer Engineering at Virgina Tech (August 2018 - Present)
-
 Master of Science in Computer Engineering from Virgina Tech (August 2016 - May 2018)
-
 Bachelor of Science in Computer Engineering from Kuwait University (September 2010 - July 2014)
 
 Publications
 ======
-| <figure style="width: 120px"> <img src="../images/guided_pix2pix_teaser.png" alt=""> </figure> | **Guided Image-to-Image Translation with Bi-Directional Feature Transformation**<br/>**Badour AlBahar**, Jia-Bin Huang<br/>ICCV 2019<br/>[project](https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html) \| [paper](https://arxiv.org/abs/1910.11328) | [code](https://github.com/vt-vl-lab/Guided-pix2pix) | [poster](https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf) | |
+<figure style="width: 240px"> <img src="../images/guided_pix2pix_teaser.png" alt=""> </figure> 
+**Guided Image-to-Image Translation with Bi-Directional Feature Transformation**<br/>**Badour AlBahar**, Jia-Bin Huang<br/>ICCV 2019<br/>[project](https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html) \| [paper](https://arxiv.org/abs/1910.11328) | [code](https://github.com/vt-vl-lab/Guided-pix2pix) | [poster](https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf)
