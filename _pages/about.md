@@ -20,7 +20,7 @@ Education
 ======
 
 <table style="width:100%">
-  <tr>
+  <tr style="font-size:14px">
     <th style="text-align:right">
       <span style="font-weight:normal">August 2018 - Present</span>
     </th>
