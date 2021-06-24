@@ -77,8 +77,8 @@ News
 ======
 
 <table style="width:100%">
-  <col style="width:17%">
-  <col style="width:83%">
+  <col style="width:20%">
+  <col style="width:80%">
   
   <tr style="font-size:16px">
     <th style="text-align:right">
