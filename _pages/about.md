@@ -67,7 +67,7 @@ Research
     <th style="text-align:left">
             Guided Image-to-Image Translation with Bi-Directional Feature Transformation<br>
             Badour AlBahar<span style="font-weight:normal">, Jia-Bin Huang</span><br>
-            <span style="font-weight:normal">ICCV 2029</span><br>
+            <span style="font-weight:normal">ICCV 2019</span><br>
             <span style="font-weight:normal"><a href="https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html">project</a> | <a href="https://arxiv.org/abs/1910.11328">paper</a> | <a href="https://github.com/vt-vl-lab/Guided-pix2pix">code</a> | <a href="https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf">poster</a></span>
     </th>
   </tr>
@@ -80,7 +80,7 @@ Research
   <div style="display:inline-block;">
       <b>Guided Image-to-Image Translation with Bi-Directional Feature Transformation</b><br>
       <b>Badour AlBahar</b>, Jia-Bin Huang<br>
-      ICCV 2029<br>
+      ICCV 2019<br>
       <a href="https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html">project</a> | <a href="https://arxiv.org/abs/1910.11328">paper</a> | <a href="https://github.com/vt-vl-lab/Guided-pix2pix">code</a> | <a href="https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf">poster</a>
   </div>
 </div>
