@@ -22,10 +22,10 @@ Education
 <table style="width:100%">
   <tr>
     <th style="text-align:right">
-      August 2018 - Present
+      <span style="font-weight:normal">August 2018 - Present</span>
     </th>
     <th style="text-align:left">
-      <b>PhD Candidate</b> in Computer Engineering at <b>Virgina Tech</b>
+      PhD Candidate <span style="font-weight:normal">in Computer Engineering at </span>Virgina Tech
     </th>
   </tr>
   
@@ -40,10 +40,10 @@ Education
   
   <tr>
     <th style="text-align:right">
-      September 2010 - July 2014
+      <span style="font-weight:normal">September 2010 - July 2014</span>
     </th>
     <th style="text-align:left">
-      <b>Bachelor of Science</b> in Computer Engineering from <b>Kuwait University</b>
+      Bachelor of Science <span style="font-weight:normal">in Computer Engineering from</span> Kuwait University
     </th>
   </tr>
 </table>
@@ -67,8 +67,8 @@ Research
     <th style="text-align:left">
             Guided Image-to-Image Translation with Bi-Directional Feature Transformation<br>
             Badour AlBahar<span style="font-weight:normal">, Jia-Bin Huang</span><br>
-            ICCV 2029<br>
-            <a href="https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html">project</a> | <a href="https://arxiv.org/abs/1910.11328">paper</a> | <a href="https://github.com/vt-vl-lab/Guided-pix2pix">code</a> | <a href="https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf">poster</a>
+            <span style="font-weight:normal">ICCV 2029</span><br>
+            <span style="font-weight:normal"><a href="https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html">project</a> | <a href="https://arxiv.org/abs/1910.11328">paper</a> | <a href="https://github.com/vt-vl-lab/Guided-pix2pix">code</a> | <a href="https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf">poster</a></span>
     </th>
   </tr>
 </table>
