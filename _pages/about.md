@@ -91,7 +91,7 @@ News
       <span style="font-weight:normal">August 2016</span>
     </th>
     <th style="text-align:left">
-      span style="font-weight:normal">Received a scholarship from Kuwait University to pursue my masters and Ph.D. at Virginia Tech.</span>
+      <span style="font-weight:normal">Received a scholarship from Kuwait University to pursue my masters and Ph.D. at Virginia Tech.</span>
     </th>
   </tr>
 </table>
