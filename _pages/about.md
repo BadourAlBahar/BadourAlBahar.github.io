@@ -21,7 +21,7 @@ Education
     <th style="text-align:right">
       August 2018 - Present
     </th>
-    <th>
+    <th style="text-align:left">
       <b>PhD Candidate</b> in Computer Engineering at <b>Virgina Tech</b>
     </th>
   </tr>
@@ -30,7 +30,7 @@ Education
     <th style="text-align:right">
       August 2016 - May 2018
     </th>
-    <th>
+    <th style="text-align:left">
       <b>Master of Science</b> in Computer Engineering from <b>Virgina Tech</b>
     </th>
   </tr>
@@ -39,7 +39,7 @@ Education
     <th style="text-align:right">
       September 2010 - July 2014
     </th>
-    <th>
+    <th style="text-align:left">
       <b>Bachelor of Science</b> in Computer Engineering from <b>Kuwait University</b>
     </th>
   </tr>
@@ -61,7 +61,7 @@ Research
     <th>
       <img src="../images/guided_pix2pix_teaser.png" width="300"/>
     </th>
-    <th>
+    <th style="text-align:left">
       <b>Guided Image-to-Image Translation with Bi-Directional Feature Transformation</b><br>
       <b>Badour AlBahar</b>, Jia-Bin Huang<br>
       ICCV 2029<br>
