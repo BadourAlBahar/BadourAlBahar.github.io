@@ -18,28 +18,28 @@ Education
 ======
 <table style="width:100%">
   <tr>
-    <th style="text-align:right; padding:0.5em;">
+    <th style="text-align:right">
       August 2018 - Present
     </th>
-    <th style="text-align:left; padding:0.5em;">
+    <th style="text-align:left">
       <b>PhD Candidate</b> in Computer Engineering at <b>Virgina Tech</b>
     </th>
   </tr>
   
   <tr>
-    <th style="text-align:right; padding:0.5em;">
+    <th style="text-align:right">
       August 2016 - May 2018
     </th>
-    <th style="text-align:left; padding:0.5em;">
+    <th style="text-align:left">
       <b>Master of Science</b> in Computer Engineering from <b>Virgina Tech</b>
     </th>
   </tr>
   
   <tr>
-    <th style="text-align:right; padding:0.5em;">
+    <th style="text-align:right">
       September 2010 - July 2014
     </th>
-    <th style="text-align:left; padding:0.5em;">
+    <th style="text-align:left">
       <b>Bachelor of Science</b> in Computer Engineering from <b>Kuwait University</b>
     </th>
   </tr>
