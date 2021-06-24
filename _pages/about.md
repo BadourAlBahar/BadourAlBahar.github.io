@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+About me
+======
 
 I am a Ph.D. student working with [Prof. Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/) in the [Vision and Learning Laboratory](https://filebox.ece.vt.edu/~jbhuang/people.html) at the department of Electrical and Computer Engineering at Virginia Tech. I am funded by [Kuwait University](http://www.kuniv.edu.kw) for both my masters and Ph.D. study.
 
@@ -16,6 +18,7 @@ You can find my CV [here](https://filebox.ece.vt.edu/~Badour/personal/cv-badour.
 
 Education
 ======
+
 <table style="width:100%">
   <tr>
     <th style="text-align:right">
