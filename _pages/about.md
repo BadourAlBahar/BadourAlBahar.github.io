@@ -73,17 +73,25 @@ Research
   </tr>
 </table>
 
-<!-- <div class="row">
-  <div style="display:inline-block;vertical-align:top;">
-      <img src="../images/guided_pix2pix_teaser.png" width="300"/>
-  </div>
-  <div style="display:inline-block;">
-      <b>Guided Image-to-Image Translation with Bi-Directional Feature Transformation</b><br>
-      <b>Badour AlBahar</b>, Jia-Bin Huang<br>
-      ICCV 2019<br>
-      <a href="https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html">project</a> | <a href="https://arxiv.org/abs/1910.11328">paper</a> | <a href="https://github.com/vt-vl-lab/Guided-pix2pix">code</a> | <a href="https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf">poster</a>
-  </div>
-</div>
-<br>
-<br> -->
+News
+======
 
+<table style="width:100%">  
+  <tr style="font-size:16px">
+    <th style="text-align:right">
+      <span style="font-weight:normal">September 2019</span>
+    </th>
+    <th style="text-align:left">
+      <span style="font-weight:normal">Featured in <a href="https://dac.cs.vt.edu/2019/09/17/dac-student-spotlight-badour-albahar/">DAC Student Spotlight</a>.</span>
+    </th>
+  </tr>
+  
+  <tr style="font-size:16px">
+    <th style="text-align:right">
+      <span style="font-weight:normal">August 2016</span>
+    </th>
+    <th style="text-align:left">
+      span style="font-weight:normal">Received a scholarship from Kuwait University to pursue my masters and Ph.D. at Virginia Tech.</span>
+    </th>
+  </tr>
+</table>
