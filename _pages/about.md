@@ -76,7 +76,10 @@ Research
 News
 ======
 
-<table style="width:100%">  
+<table style="width:100%">
+  <col style="width:30%">
+	<col style="width:70%">
+  
   <tr style="font-size:16px">
     <th style="text-align:right">
       <span style="font-weight:normal">September 2019</span>
