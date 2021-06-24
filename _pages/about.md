@@ -19,28 +19,28 @@ Education
 <table style="width:100%">
   <tr>
     <th style="text-align:right">
-      <p>August 2018 - Present</p>
+      <content>August 2018 - Present</content>
     </th>
     <th style="text-align:left">
-      <p><b>PhD Candidate</b> in Computer Engineering at <b>Virgina Tech</b></p>
+      <content><b>PhD Candidate</b> in Computer Engineering at <b>Virgina Tech</b></content>
     </th>
   </tr>
   
   <tr>
     <th style="text-align:right">
-      <p>August 2016 - May 2018</p>
+      August 2016 - May 2018
     </th>
     <th style="text-align:left">
-      <p><b>Master of Science</b> in Computer Engineering from <b>Virgina Tech</b></p>
+      <b>Master of Science</b> in Computer Engineering from <b>Virgina Tech</b>
     </th>
   </tr>
   
   <tr>
     <th style="text-align:right">
-      <p>September 2010 - July 2014</p>
+      September 2010 - July 2014
     </th>
     <th style="text-align:left">
-      <p><b>Bachelor of Science</b> in Computer Engineering from <b>Kuwait University</b></p>
+      <b>Bachelor of Science</b> in Computer Engineering from <b>Kuwait University</b>
     </th>
   </tr>
 </table>
@@ -62,12 +62,10 @@ Research
       <img src="../images/guided_pix2pix_teaser.png" width="300"/>
     </th>
     <th style="text-align:left">
-      <p>
-        <h4>Guided Image-to-Image Translation with Bi-Directional Feature Transformation</h4><br>
-        <b>Badour AlBahar</b>, Jia-Bin Huang<br>
-        ICCV 2029<br>
-        <a href="https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html">project</a> | <a href="https://arxiv.org/abs/1910.11328">paper</a> | <a href="https://github.com/vt-vl-lab/Guided-pix2pix">code</a> | <a href="https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf">poster</a>
-      </p>
+        <worktitle>Guided Image-to-Image Translation with Bi-Directional Feature Transformation</worktitle><br>
+        <authors><b>Badour AlBahar</b>, Jia-Bin Huang<br></authors>
+        <venue>ICCV 2029<br></venue>
+        <content><a href="https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html">project</a> | <a href="https://arxiv.org/abs/1910.11328">paper</a> | <a href="https://github.com/vt-vl-lab/Guided-pix2pix">code</a> | <a href="https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf">poster</a></content>
     </th>
   </tr>
 </table>
