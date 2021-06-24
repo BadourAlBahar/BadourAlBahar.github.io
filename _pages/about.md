@@ -85,7 +85,7 @@ News
       <span style="font-weight:normal">Summer 2021</span>
     </th>
     <th style="text-align:left">
-      <span style="font-weight:normal">I joined Adobe as a research intern working under the guidance of <a href="https://eng.ucmerced.edu/people/jyang44">Jimei Yang</a></span>
+      <span style="font-weight:normal">I joined Adobe as a research intern working with <a href="https://eng.ucmerced.edu/people/jyang44">Jimei Yang</a></span>
     </th>
   </tr>
   
