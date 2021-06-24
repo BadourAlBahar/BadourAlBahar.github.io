@@ -31,10 +31,10 @@ Education
   
   <tr>
     <th style="text-align:right">
-      August 2016 - May 2018
+      <span style="font-weight:normal">August 2016 - May 2018</span>
     </th>
     <th style="text-align:left">
-      <b>Master of Science</b> in Computer Engineering from <b>Virgina Tech</b>
+      Master of Science <span style="font-weight:normal">in Computer Engineering from</span> Virgina Tech
     </th>
   </tr>
   
@@ -66,7 +66,7 @@ Research
     </th>
     <th style="text-align:left">
             Guided Image-to-Image Translation with Bi-Directional Feature Transformation<br>
-            <b>Badour AlBahar</b>, Jia-Bin Huang<br>
+            Badour AlBahar<span style="font-weight:normal">, Jia-Bin Huang</span><br>
             ICCV 2029<br>
             <a href="https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html">project</a> | <a href="https://arxiv.org/abs/1910.11328">paper</a> | <a href="https://github.com/vt-vl-lab/Guided-pix2pix">code</a> | <a href="https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf">poster</a>
     </th>
