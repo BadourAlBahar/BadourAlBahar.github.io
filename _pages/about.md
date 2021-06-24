@@ -62,7 +62,7 @@ Research
 <table style="width:100%">
   <tr>
     <th>
-      <img src="../images/guided_pix2pix_teaser.png" width="300"/>
+      <img src="../images/guided_pix2pix_teaser.png" width="350"/>
     </th>
     <th style="text-align:left">
             Guided Image-to-Image Translation with Bi-Directional Feature Transformation<br>
