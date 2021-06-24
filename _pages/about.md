@@ -16,10 +16,40 @@ You can find my CV [here](https://filebox.ece.vt.edu/~Badour/personal/cv-badour.
 
 Education
 ======
-* **PhD Candidate** in Computer Engineering at **Virgina Tech** _(August 2018 - Present)_
+<table style="width:100%">
+  <tr>
+    <th>
+      August 2018 - Present
+    </th>
+    <th>
+      **PhD Candidate** in Computer Engineering at **Virgina Tech**
+    </th>
+  </tr>
+  
+  <tr>
+    <th>
+      August 2016 - May 2018
+    </th>
+    <th>
+      **Master of Science** in Computer Engineering from **Virgina Tech**
+    </th>
+  </tr>
+  
+  <tr>
+    <th>
+      September 2010 - July 2014
+    </th>
+    <th>
+      **Bachelor of Science** in Computer Engineering from **Kuwait University**
+    </th>
+  </tr>
+</table>
+
+<!-- * **PhD Candidate** in Computer Engineering at **Virgina Tech** _(August 2018 - Present)_
 * **Master of Science** in Computer Engineering from **Virgina Tech** _(August 2016 - May 2018)_
 * **Bachelor of Science** in Computer Engineering from **Kuwait University** _(September 2010 - July 2014)_
-
+ -->
+ 
 Research
 ======
 <!-- |  |  |
