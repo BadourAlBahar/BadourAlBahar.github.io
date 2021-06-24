@@ -20,7 +20,7 @@ Education
 ======
 
 <table style="width:100%">
-  <tr style="font-size:17px">
+  <tr style="font-size:16px">
     <th style="text-align:right">
       <span style="font-weight:normal">August 2018 - Present</span>
     </th>
@@ -29,7 +29,7 @@ Education
     </th>
   </tr>
   
-  <tr style="font-size:17px">
+  <tr style="font-size:16px">
     <th style="text-align:right">
       <span style="font-weight:normal">August 2016 - May 2018</span>
     </th>
@@ -38,7 +38,7 @@ Education
     </th>
   </tr>
   
-  <tr style="font-size:17px">
+  <tr style="font-size:16px">
     <th style="text-align:right">
       <span style="font-weight:normal">September 2010 - July 2014</span>
     </th>
@@ -66,9 +66,9 @@ Research
     </th>
     <th style="text-align:left">
             Guided Image-to-Image Translation with Bi-Directional Feature Transformation<br>
-            <span style="font-size:17px">Badour AlBahar<span style="font-weight:normal">, Jia-Bin Huang</span></span><br>
-            <span style="font-weight:normal;font-size:17px">ICCV 2019</span><br>
-            <span style="font-weight:normal;font-size:17px"><a href="https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html">project</a> | <a href="https://arxiv.org/abs/1910.11328">paper</a> | <a href="https://github.com/vt-vl-lab/Guided-pix2pix">code</a> | <a href="https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf">poster</a></span>
+            <span style="font-size:16px">Badour AlBahar<span style="font-weight:normal">, Jia-Bin Huang</span></span><br>
+            <span style="font-weight:normal;font-size:16px">ICCV 2019</span><br>
+            <span style="font-weight:normal;font-size:16px"><a href="https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html">project</a> | <a href="https://arxiv.org/abs/1910.11328">paper</a> | <a href="https://github.com/vt-vl-lab/Guided-pix2pix">code</a> | <a href="https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf">poster</a></span>
     </th>
   </tr>
 </table>
