@@ -37,6 +37,26 @@ h2 {
   font-size: $type-size-4;
 }
 
+worktitle {
+   font-size: $type-size-5;
+   font-weight: bold;
+   font-family: $header-font-family;
+   line-height: 1.2;
+}
+
+authors {
+   font-size: $type-size-4;
+}
+
+venue {
+   font-size: $type-size-4;
+   font-color: $light-gray;
+}
+
+content {
+   font-size: $type-size-4;
+}
+
 h3 {
   font-size: $type-size-5;
 }
