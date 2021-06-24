@@ -85,7 +85,7 @@ News
       <span style="font-weight:normal">September 2019</span>
     </th>
     <th style="text-align:left">
-      <span style="font-weight:normal">Featured in <a href="https://dac.cs.vt.edu/2019/09/17/dac-student-spotlight-badour-albahar/">DAC Student Spotlight</a>.</span>
+      <span style="font-weight:normal">Featured in <a href="https://dac.cs.vt.edu/2019/09/17/dac-student-spotlight-badour-albahar/">DAC Student Spotlight</a></span>
     </th>
   </tr>
   
@@ -94,7 +94,7 @@ News
       <span style="font-weight:normal">August 2016</span>
     </th>
     <th style="text-align:left">
-      <span style="font-weight:normal">Received a scholarship from Kuwait University to pursue my masters and Ph.D. at Virginia Tech.</span>
+      <span style="font-weight:normal">Received a scholarship from Kuwait University to pursue my masters and Ph.D. at Virginia Tech</span>
     </th>
   </tr>
 </table>
