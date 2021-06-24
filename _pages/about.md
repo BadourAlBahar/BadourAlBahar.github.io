@@ -18,7 +18,7 @@ Education
 ======
 <table style="width:100%">
   <tr>
-    <th>
+    <th style="text-align:right">
       August 2018 - Present
     </th>
     <th>
@@ -27,7 +27,7 @@ Education
   </tr>
   
   <tr>
-    <th>
+    <th style="text-align:right">
       August 2016 - May 2018
     </th>
     <th>
@@ -36,7 +36,7 @@ Education
   </tr>
   
   <tr>
-    <th>
+    <th style="text-align:right">
       September 2010 - July 2014
     </th>
     <th>
