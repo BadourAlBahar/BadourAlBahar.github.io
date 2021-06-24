@@ -22,7 +22,7 @@ Education
       August 2018 - Present
     </th>
     <th>
-      **PhD Candidate** in Computer Engineering at **Virgina Tech**
+      <b>PhD Candidate</b> in Computer Engineering at <b>Virgina Tech</b>
     </th>
   </tr>
   
@@ -31,7 +31,7 @@ Education
       August 2016 - May 2018
     </th>
     <th>
-      **Master of Science** in Computer Engineering from **Virgina Tech**
+      <b>Master of Science</b> in Computer Engineering from <b>Virgina Tech</b>
     </th>
   </tr>
   
@@ -40,7 +40,7 @@ Education
       September 2010 - July 2014
     </th>
     <th>
-      **Bachelor of Science** in Computer Engineering from **Kuwait University**
+      <b>Bachelor of Science</b> in Computer Engineering from <b>Kuwait University</b>
     </th>
   </tr>
 </table>
