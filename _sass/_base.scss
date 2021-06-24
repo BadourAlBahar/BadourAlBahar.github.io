@@ -46,14 +46,17 @@ worktitle {
 
 authors {
    font-size: $type-size-4;
+   font-family: $global-font-family;
 }
 
 venue {
+   font-family: $global-font-family;
    font-size: $type-size-4;
-   font-color: $light-gray;
+   color: $light-gray;
 }
 
 content {
+   font-family: $global-font-family;
    font-size: $type-size-4;
 }
 
