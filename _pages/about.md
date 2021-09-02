@@ -85,7 +85,7 @@ News
       <span style="font-weight:normal">Summer 2021</span>
     </th>
     <th style="text-align:left">
-      <span style="font-weight:normal">I joined Adobe as a research intern working with <a href="https://eng.ucmerced.edu/people/jyang44">Jimei Yang</a></span>
+      <span style="font-weight:normal">I joined Adobe Research as a research intern working with <a href="https://eng.ucmerced.edu/people/jyang44">Jimei Yang</a>, <a href="https://research.adobe.com/person/jingwan-lu/">Cynthia Lu</a>, <a href="https://people.umass.edu/~yangzhou/">Yang Zhou</a>, <a href="https://zhixinshu.github.io/">Zhixin Shu</a>, and <a href="https://research.adobe.com/person/eli-shechtman/">Eli Shechtman</a></span>
     </th>
   </tr>
   
