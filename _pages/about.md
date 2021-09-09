@@ -69,10 +69,11 @@ Research
             Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN<br>
             <span style="font-size:16px">Badour AlBahar<span style="font-weight:normal">, Jingwan Lu, Jimei Yang, Zhixin Shu, Eli Shechtman, and Jia-Bin Huang</span></span><br>
             <span style="font-weight:normal;font-size:16px">ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia), 2021</span><br>
-            <span style="font-weight:normal;font-size:16px"><a href="https://pose-with-style.github.io/">project</a> | <a href="https://pose-with-style.github.io/asset/paper.pdf">paper</a> | <a href="">code (coming soon)</a></span>
+            <span style="font-weight:normal;font-size:16px"><a href="https://pose-with-style.github.io/">project page</a> | <a href="https://pose-with-style.github.io/asset/paper.pdf">paper</a> | <a href="">code (coming soon)</a></span>
     </th>
   </tr>
   
+  <br>
   
   <tr>
     <th>
@@ -82,7 +83,7 @@ Research
             Guided Image-to-Image Translation with Bi-Directional Feature Transformation<br>
             <span style="font-size:16px">Badour AlBahar<span style="font-weight:normal">, Jia-Bin Huang</span></span><br>
             <span style="font-weight:normal;font-size:16px">ICCV 2019</span><br>
-            <span style="font-weight:normal;font-size:16px"><a href="https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html">project</a> | <a href="https://arxiv.org/abs/1910.11328">paper</a> | <a href="https://github.com/vt-vl-lab/Guided-pix2pix">code</a> | <a href="https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf">poster</a></span>
+            <span style="font-weight:normal;font-size:16px"><a href="https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html">project page</a> | <a href="https://arxiv.org/abs/1910.11328">paper</a> | <a href="https://github.com/vt-vl-lab/Guided-pix2pix">code</a> | <a href="https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf">poster</a></span>
     </th>
   </tr>
   
