@@ -60,6 +60,20 @@ Research
 | <figure style="width: 200px"> <img src="../images/guided_pix2pix_teaser.png" alt=""> | </figure>**Guided Image-to-Image Translation with Bi-Directional Feature Transformation**<br/>**Badour AlBahar**, Jia-Bin Huang<br/>ICCV 2019<br/>[project](https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html) \| [paper](https://arxiv.org/abs/1910.11328) \| [code](https://github.com/vt-vl-lab/Guided-pix2pix) \| [poster](https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf) | -->
 
 <table style="width:100%">
+  
+  <tr>
+    <th>
+      <img src="../images/posewithstyle_teaser.png" width="350"/>
+    </th>
+    <th style="text-align:left">
+            Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN<br>
+            <span style="font-size:16px">Badour AlBahar<span style="font-weight:normal">, Jingwan Lu, Jimei Yang, Zhixin Shu, Eli Shechtman, and Jia-Bin Huang</span></span><br>
+            <span style="font-weight:normal;font-size:16px">ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia), 2021</span><br>
+            <span style="font-weight:normal;font-size:16px"><a href="https://pose-with-style.github.io/">project</a> | <a href="https://pose-with-style.github.io/asset/paper.pdf">paper</a> | <a href="">code (coming soon)</a></span>
+    </th>
+  </tr>
+  
+  
   <tr>
     <th>
       <img src="../images/guided_pix2pix_teaser.png" width="350"/>
@@ -71,6 +85,9 @@ Research
             <span style="font-weight:normal;font-size:16px"><a href="https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html">project</a> | <a href="https://arxiv.org/abs/1910.11328">paper</a> | <a href="https://github.com/vt-vl-lab/Guided-pix2pix">code</a> | <a href="https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf">poster</a></span>
     </th>
   </tr>
+  
+  
+  
 </table>
 
 News
