@@ -69,7 +69,7 @@ Research
             Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN<br>
             <span style="font-size:16px">Badour AlBahar<span style="font-weight:normal">, Jingwan Lu, Jimei Yang, Zhixin Shu, Eli Shechtman, and Jia-Bin Huang</span></span><br>
             <span style="font-weight:normal;font-size:16px">ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia), 2021</span><br>
-            <span style="font-weight:normal;font-size:16px"><a href="https://pose-with-style.github.io/">project page</a> | <a href="https://pose-with-style.github.io/asset/paper.pdf">paper</a> | <a href="">code (coming soon)</a></span>
+            <span style="font-weight:normal;font-size:16px"><a href="https://pose-with-style.github.io/">project page</a> | <a href="https://pose-with-style.github.io/asset/paper.pdf">paper</a> | <a href="https://github.com/BadourAlBahar/pose-with-style">code</a></span>
     </th>
   </tr>
   
