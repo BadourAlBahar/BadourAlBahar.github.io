@@ -63,6 +63,20 @@ Research
   
   <tr>
     <th>
+      <img src="../images/videogan_teaser.gif" width="350"/>
+    </th>
+    <th style="text-align:left">
+            Temporally Consistent Semantic Video Editing<br>
+            <span style="font-size:16px"><span style="font-weight:normal">Yiran Xu</span>, Badour AlBahar<span style="font-weight:normal">, and Jia-Bin Huang</span></span><br>
+            <span style="font-weight:normal;font-size:16px">ECCV 2022</span><br>
+            <span style="font-weight:normal;font-size:16px"><a href="https://video-edit-gan.github.io/">project page</a> | <a href="https://arxiv.org/pdf/2206.10590.pdf">paper</a> | <a href="">code (coming soon)</a></span>
+    </th>
+  </tr>
+  
+  <br>
+  
+  <tr>
+    <th>
       <img src="../images/posewithstyle_teaser.png" width="350"/>
     </th>
     <th style="text-align:left">
@@ -97,6 +111,15 @@ News
 <table style="width:100%">
   <col style="width:20%">
   <col style="width:80%">
+  
+  <tr style="font-size:16px">
+    <th style="text-align:right">
+      <span style="font-weight:normal">Jan-May 2021</span>
+    </th>
+    <th style="text-align:left">
+      <span style="font-weight:normal">I joined Meta as a research intern working with <a href="http://www-scf.usc.edu/~saitos/">Shunsuke Saito</a>, <a href="https://hytseng0509.github.io/">Hung-Yu Tseng</a>, <a href="https://changilkim.com/">Changil Kim</a>, <a href="https://xrong.org/">Xuejian Rong</a>, <a href="https://www.linkedin.com/in/ayush29feb">Ayush Saraf</a>, <a href="http://johanneskopf.de/">Johannes Kopf</a>,and <a href="https://jbhuang0604.github.io/">Jia-Bin Huang</a></span>
+    </th>
+  </tr>
   
   <tr style="font-size:16px">
     <th style="text-align:right">
