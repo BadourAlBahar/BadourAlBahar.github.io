@@ -117,7 +117,7 @@ News
       <span style="font-weight:normal">Jan-May 2022</span>
     </th>
     <th style="text-align:left">
-      <span style="font-weight:normal">I joined Meta as a research intern working with <a href="http://www-scf.usc.edu/~saitos/">Shunsuke Saito</a>, <a href="https://hytseng0509.github.io/">Hung-Yu Tseng</a>, <a href="https://changilkim.com/">Changil Kim</a>, <a href="https://xrong.org/">Xuejian Rong</a>, <a href="https://www.linkedin.com/in/ayush29feb">Ayush Saraf</a>, <a href="http://johanneskopf.de/">Johannes Kopf</a>,and <a href="https://jbhuang0604.github.io/">Jia-Bin Huang</a></span>
+      <span style="font-weight:normal">I joined Meta as a research intern working with <a href="http://www-scf.usc.edu/~saitos/">Shunsuke Saito</a>, <a href="https://hytseng0509.github.io/">Hung-Yu Tseng</a>, <a href="https://changilkim.com/">Changil Kim</a>, <a href="https://xrong.org/">Xuejian Rong</a>, <a href="https://www.linkedin.com/in/ayush29feb">Ayush Saraf</a>, <a href="http://johanneskopf.de/">Johannes Kopf</a>, and <a href="https://jbhuang0604.github.io/">Jia-Bin Huang</a></span>
     </th>
   </tr>
   
