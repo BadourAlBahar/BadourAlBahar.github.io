@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Badour AlBahar"
 title_separator          : "-"
 name                     : &name "Badour AlBahar"
-description              : &description "PhD candidate at Virgina Tech"
+description              : &description "Assistant professor in the Department of Computer Engineering at Kuwait University"
 url                      : https://badouralbahar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "badouralbahar.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Badour AlBahar"
   avatar           : "profile.png"
-  bio              : "PhD candidate at Virginia Tech working with professor Jia-Bin Huang"
-  location         : "Blacksburg, VA"
+  bio              : "Assistant professor in the Department of Computer Engineering at Kuwait University"
+  location         : "Sabah Al-Salem University City, Kuwait"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=xnuZzrsAAAAJ&hl=en"
-  email            : "badour@vt.edu"
+  email            : "badouralbahar@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
