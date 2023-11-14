@@ -57,7 +57,7 @@ Research
 <table style="width:100%">
   <tr>
     <th>
-<!--       <img src="../images/videogan_teaser.gif" width="350"/> -->
+      <img src="../images/humansgd" width="350"/>
     </th>
     <th style="text-align:left">
             Human-SGD: Single-Image 3D Human Digitization with Shape-Guided Diffusion<br>
