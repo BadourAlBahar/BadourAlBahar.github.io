@@ -57,6 +57,19 @@ Research
 <table style="width:100%">
   <tr>
     <th>
+<!--       <img src="../images/videogan_teaser.gif" width="350"/> -->
+    </th>
+    <th style="text-align:left">
+            Human-SGD: Single-Image 3D Human Digitization with Shape-Guided Diffusion<br>
+            <span style="font-size:16px">Badour AlBahar<span style="font-weight:normal">, Shunsuke Saito</span><span style="font-weight:normal">, Hung-Yu Tseng</span><span style="font-weight:normal">, Changil Kim</span><span style="font-weight:normal">, Johannes Kopf</span><span style="font-weight:normal">, and Jia-Bin Huang</span></span><br>
+            <span style="font-weight:normal;font-size:16px">SIGGRAPH Asia 2023</span><br>
+            <span style="font-weight:normal;font-size:16px"><a href="https://human-sgd.github.io">project page</a> | <a href="">paper</a> | <a href="">code (coming soon)</a></span>
+    </th>
+  </tr>
+
+  
+  <tr>
+    <th>
       <img src="../images/videogan_teaser.gif" width="350"/>
     </th>
     <th style="text-align:left">
