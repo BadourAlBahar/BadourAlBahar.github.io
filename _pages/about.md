@@ -12,7 +12,7 @@ About me
 
 I am an Assistant Professor in the Department of Computer Engineering at [Kuwait University](http://www.kuniv.edu.kw). My research interests are in the area of computer vision. I am particularly interested in controllable image synthesis. 
 
-You can find my CV [here](../files/cv_september_2023.pdf).
+You can find my CV [here](../files/cv_november_2023.pdf).
 
 Education
 ======
@@ -23,7 +23,7 @@ Education
       <span style="font-weight:normal">August 2018 - May 2023</span>
     </th>
     <th style="text-align:left">
-      Ph.D. <span style="font-weight:normal">in Computer Engineering at </span>Virgina Tech
+      Ph.D. <span style="font-weight:normal">in Computer Engineering from </span>Virgina Tech
     </th>
   </tr>
   
@@ -60,10 +60,10 @@ Research
       <img src="../images/humansgd.gif" width="350"/>
     </th>
     <th style="text-align:left">
-            Human-SGD: Single-Image 3D Human Digitization with Shape-Guided Diffusion<br>
+            Single-Image 3D Human Digitization with Shape-Guided Diffusion<br>
             <span style="font-size:16px">Badour AlBahar<span style="font-weight:normal">, Shunsuke Saito</span><span style="font-weight:normal">, Hung-Yu Tseng</span><span style="font-weight:normal">, Changil Kim</span><span style="font-weight:normal">, Johannes Kopf</span><span style="font-weight:normal">, and Jia-Bin Huang</span></span><br>
             <span style="font-weight:normal;font-size:16px">SIGGRAPH Asia 2023</span><br>
-            <span style="font-weight:normal;font-size:16px"><a href="https://human-sgd.github.io">project page</a> | <a href="">paper</a> | <a href="">code (coming soon)</a></span>
+            <span style="font-weight:normal;font-size:16px"><a href="https://human-sgd.github.io">project page</a> | <a href="https://arxiv.org/abs/2311.09221">paper</a> | <a href="">code (coming soon)</a></span>
     </th>
   </tr>
 
@@ -76,7 +76,7 @@ Research
             Temporally Consistent Semantic Video Editing<br>
             <span style="font-size:16px"><span style="font-weight:normal">Yiran Xu</span>, Badour AlBahar<span style="font-weight:normal">, and Jia-Bin Huang</span></span><br>
             <span style="font-weight:normal;font-size:16px">ECCV 2022</span><br>
-            <span style="font-weight:normal;font-size:16px"><a href="https://video-edit-gan.github.io/">project page</a> | <a href="https://arxiv.org/pdf/2206.10590.pdf">paper</a> | <a href="">code (coming soon)</a></span>
+            <span style="font-weight:normal;font-size:16px"><a href="https://video-edit-gan.github.io/">project page</a> | <a href="https://arxiv.org/pdf/2206.10590.pdf">paper</a> | <a href="https://github.com/Twizwei/VideoEditGAN">code</a></span>
     </th>
   </tr>
   
