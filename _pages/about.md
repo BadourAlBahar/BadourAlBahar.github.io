@@ -104,7 +104,7 @@ Research
             Guided Image-to-Image Translation with Bi-Directional Feature Transformation<br>
             <span style="font-size:16px">Badour AlBahar<span style="font-weight:normal"> and Jia-Bin Huang</span></span><br>
             <span style="font-weight:normal;font-size:16px">ICCV 2019</span><br>
-            <span style="font-weight:normal;font-size:16px"><a href="https://filebox.ece.vt.edu/~Badour/guided_pix2pix.html">project page</a> | <a href="https://arxiv.org/abs/1910.11328">paper</a> | <a href="https://github.com/vt-vl-lab/Guided-pix2pix">code</a> | <a href="https://filebox.ece.vt.edu/~Badour/figures/guided_pix2pix_poster.pdf">poster</a></span>
+            <span style="font-weight:normal;font-size:16px"><a href="https://guided-pix2pix.github.io/">project page</a> | <a href="https://arxiv.org/abs/1910.11328">paper</a> | <a href="https://github.com/vt-vl-lab/Guided-pix2pix">code</a> | <a href="https://guided-pix2pix.github.io/figures/guided_pix2pix_poster.pdf">poster</a></span>
     </th>
   </tr>
   
